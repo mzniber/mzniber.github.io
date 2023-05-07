@@ -1,4 +1,4 @@
-## Selected projects in data science, machine learning and NLP
+## Selected Projects in Chemometrics, Data Science and Machine Learning
 
 ---
 
