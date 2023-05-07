@@ -3,9 +3,4 @@ logo: "/images/picture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Chemical Data Scientist with 4+ years of experience in Chemical Sensors, Metabolomics and Machine Learning
   <br><br>
-  <a href="https://www.linkedin.com/in/zniber/">View My LinkedIn Profile</a> 
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  <a href="https://www.linkedin.com/in/zniber/">View My LinkedIn Profile</a>
