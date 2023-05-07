@@ -3,8 +3,6 @@ logo: "/images/picture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Chemical Data Scientist with 4+ years of experience in Chemistry and Machine Learning
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/zniber/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
