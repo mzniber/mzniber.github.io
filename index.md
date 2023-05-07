@@ -2,9 +2,10 @@
 
 ---
 
-### Deep NLP for hate speech detection
+### Potentiometric multisensor array for prostate cancer diagnosis
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+A potentiometric electronic tongue combined with machine learning was used to distinguish between prostate cancer patients and those with benign prostate hyperplasia by analyzing urine samples. This innovative approach utilizes array of non-specific, low-selective chemical sensors with high stability and cross-sensitivity and an approriate pattern recognition algorithm.
+
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
