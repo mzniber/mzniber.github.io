@@ -13,8 +13,8 @@ A potentiometric electronic tongue combined with machine learning was used to di
 
 ---
 
-### Examining panic-buying during the first wave of Covid-19, using mobility data
-The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
+### Unveiling Apartments in Turku with BeautifulSoup
+This project extracts relevant data and insights from a rental website using BeautifulSoup, providing users with a comprehensive list of apartments and their details.
 
 <img src="images/mobility.png?raw=true" />
 
