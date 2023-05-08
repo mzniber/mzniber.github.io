@@ -4,7 +4,7 @@
 
 ### Potentiometric multisensor array for prostate cancer diagnosis
 
-<p>A potentiometric electronic tongue combined with machine learning was used to distinguish between prostate cancer patients and those with benign prostate hyperplasia by analyzing urine samples.</p>
+<p align=”justify”>A potentiometric electronic tongue combined with machine learning was used to distinguish between prostate cancer patients and those with benign prostate hyperplasia by analyzing urine samples.</p>
 <img src="images/potentio.png?raw=true" width=400/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
