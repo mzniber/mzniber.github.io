@@ -9,7 +9,7 @@ A potentiometric electronic tongue combined with machine learning was used to di
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/1okPtGw1sAvd2O1_7HFxA3W2w034gGcmw?usp=sharing)
 
 ---
 
