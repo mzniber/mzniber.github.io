@@ -2,7 +2,7 @@
 
 ---
 
-### Sensing the Future: A Potentiometric Multisensor Array for Prostate Cancer Diagnosis
+### A Potentiometric Multisensor Array for Prostate Cancer Diagnosis
 A potentiometric electronic tongue combined with machine learning was used to distinguish between prostate cancer patients and those with benign prostate hyperplasia by analyzing urine samples.
 
 <img src="images/post1.png?raw=true" width=800/>
@@ -13,7 +13,7 @@ A potentiometric electronic tongue combined with machine learning was used to di
 
 ---
 
-### Unveiling Apartments in Turku with BeautifulSoup
+### Unveiling Apartments' rent in Turku with BeautifulSoup
 This project extracts relevant data and insights from a rental website using BeautifulSoup, providing users with a comprehensive list of apartments and their details.
 
 <img src="images/post2.jpg?raw=true" width=500/>
