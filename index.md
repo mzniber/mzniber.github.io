@@ -13,7 +13,7 @@ A potentiometric electronic tongue combined with machine learning was used to di
 
 ---
 
-### Implementing a custom data collection pipeline using BeautifulSoup
+### Implementing A Custom Data Collection Pipeline Using BeautifulSoup
 This project extracts relevant data and insights from a rental website using BeautifulSoup, providing users with a comprehensive list of apartments and their details.
 
 <img src="images/post2.jpg?raw=true" width=500/>
