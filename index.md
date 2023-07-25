@@ -1,4 +1,4 @@
-## Exploring the Potential of Chemometrics, Data Science, and Machine Learning: Selected Project Highlights
+## Exploring the Potential of Chemometrics, Data Science, and Machine Learning
 
 ---
 
