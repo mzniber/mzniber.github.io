@@ -31,7 +31,7 @@ The project includes the creation of an interactive Power BI dashboard, facilita
 
 [![](https://img.shields.io/badge/Power%20BI-white?logo=PowerBI)](#) 
 
-[View dashboard on PowerPoint]()
+[View dashboard on PowerPoint](https://docs.google.com/presentation/d/1_X3X8D5QYyRfDLadYMNsqL62meko1BsJ/edit?usp=sharing&ouid=115046754985328261207&rtpof=true&sd=true)
 # Important note: Power BI must be installed on your computer in order to interact with the dashboard.
 ---
 
