@@ -31,6 +31,8 @@ The project includes the creation of an interactive Power BI dashboard, facilita
 
 [![](https://img.shields.io/badge/Power%20BI-white?logo=PowerBI)](#) 
 
+[View dashboard on PowerPoint]()
+# Important note: Power BI must be installed on your computer in order to interact with the dashboard.
 ---
 
 ### PyShift: NMR Peak Alignment using Icoshift Algorithm in Python
