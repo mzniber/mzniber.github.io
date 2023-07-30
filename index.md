@@ -27,7 +27,7 @@ The objective of this project is to utilize BeautifulSoup for gathering pertinen
 ### An Interactive Power BI Dashboard for Apartments' data
 The project includes the creation of an interactive Power BI dashboard, facilitating data visualization for a more engaging user experience. The data was retrieved using BeautifulSoup in the aforementioned project.
 
-<img src="images/post4.png?raw=true" width=500/>
+<img src="images/post4.PNG?raw=true" width=500/>
 
 [![](https://img.shields.io/badge/Power%20BI-white?logo=PowerBI)](#) 
 
