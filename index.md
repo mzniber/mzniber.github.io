@@ -48,7 +48,7 @@ This project aims to implement the Icoshift algorithm in Python to achieve accur
 ### A Comparative Analysis of Rice Varieties Osmanjik and Cameo using CatBoost Classifier and SHAPley values
 This project conducts a comparative analysis of rice varieties Osmanjik and Cameo using the CatBoost classifier for accurate classification. SHAPley values are employed to interpret the model's decisions and identify discriminative features between the two varieties.
 
-<img src="images/post5.jpg" width=800/>
+<img src="images/post5.jpg" width=400/>
 
 [View code on Colab](https://colab.research.google.com/drive/12yctzARF8YYwUYDutqSL5fGwEcuo6obM?usp=sharing)
 
