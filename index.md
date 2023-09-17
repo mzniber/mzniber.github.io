@@ -1,6 +1,12 @@
 ## Exploring the Potential of Chemometrics, Data Science, and Machine Learning
 
 ---
+### Protomix : A Python Package for 1H-NMR Metabolomics' Data
+This project focuses on the development of a preprocessing pipeline for NMR data in Python. At present, we are rigorously testing the functionalities of the package to ensure its reliability and efficiency. The notebook showcased below illustrates a glimpse of the capabilities that this library has to offer.
+
+[View code on Colab](https://colab.research.google.com/drive/1eqnRFCfbHnrLSvaUjGL2LLGNWkiAMU42?usp=sharing)
+
+---
 ### PyShift: NMR Peak Alignment using Icoshift Algorithm in Python
 This project aims to implement the Icoshift algorithm in Python to achieve accurate alignment of NMR spectra. The implementation's performance will be assessed using the Wine NMR dataset, showcasing its ability to effectively handle variations in peak positions.
 
