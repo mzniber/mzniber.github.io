@@ -6,7 +6,7 @@ This project focuses on the development of a preprocessing pipeline for NMR data
 
 <img src="images/post6.png?raw=true" width=500/>
 
-[View code on Colab](https://colab.research.google.com/drive/1eqnRFCfbHnrLSvaUjGL2LLGNWkiAMU42?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/1gPUHOqjkFuxGW49sOJDpHYv7OiHq3aph#scrollTo=hnXNKPRQ4v3e)
 
 ---
 ### PyShift: NMR Peak Alignment using Icoshift Algorithm in Python
