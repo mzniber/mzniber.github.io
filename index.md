@@ -2,7 +2,7 @@
 
 ---
 ### Protomix : A Python Package for 1H-NMR Metabolomics' Data
-This project focused on the development of a preprocessing pipeline for NMR data in Python. For more details, check out the [scientific publication]([https://colab.research.google.com/drive/1okPtGw1sAvd2O1_7HFxA3W2w034gGcmw?usp=sharing](https://doi.org/10.1093/bioadv/vbae192)) describing the package here. You can also access the full documentation on [ReadTheDocs](https://protomix.readthedocs.io/en/latest/) and the notebook below illustrates a glimpse of the capabilities that this library has to offer.
+This project focused on the development of a preprocessing pipeline for NMR data in Python. For more details, check out the [scientific publication](https://doi.org/10.1093/bioadv/vbae192) describing the package. You can also access the full documentation on [ReadTheDocs](https://protomix.readthedocs.io/en/latest/) and the notebook below illustrates a glimpse of the capabilities that this library has to offer.
 
 <img src="images/post6.png?raw=true" width=500/>
 
