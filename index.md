@@ -1,8 +1,8 @@
 ## Exploring the Potential of Chemometrics, Data Science, and Machine Learning
 
 ---
-### Protomix : A Python Package for 1H-NMR Metabolomics Data Preprocessing
-This project focused on the development of a preprocessing pipeline for NMR data in Python. For more details, check out the [scientific publication](https://doi.org/10.1093/bioadv/vbae192) describing the package. You can also access the full documentation on [ReadTheDocs](https://protomix.readthedocs.io/en/latest/) and the notebook below illustrates a glimpse of the capabilities that this library has to offer.
+### Hackathon : Development of a Computer Vision Model for Pumps and Valves Detection
+In this project, we participated in a challenge for Valmet organized by Since AI, focusing on building a complete solution for pumps and valves detection. Our team developed a web-based interface integrated with a YOLO-based computer vision model to detect and classify components in industrial environments. The work included data collection and preparation, model training, evaluation, and deployment within a user-friendly interface.[scientific publication](https://doi.org/10.1093/bioadv/vbae192)
 
 <img src="images/post6.png?raw=true" width=500/>
 
