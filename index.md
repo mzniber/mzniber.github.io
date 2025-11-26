@@ -2,10 +2,7 @@
 
 ---
 ### Hackathon : Development of a Computer Vision Model for Pumps and Valves Detection
-<div style="text-align: justify;">
 In this project, we participated in a challenge for Valmet organized by Since AI, focusing on building a complete solution for pumps and valves detection. Our team developed a web-based interface integrated with a YOLO-based computer vision model to detect and classify components in industrial environments. The work included data collection and preparation, model training, evaluation, and deployment within a user-friendly interface.
-</br>
-</div>
 
 <img src="images/hackathon_sinceAI.jpg?raw=true" width=500/>
 
@@ -13,10 +10,7 @@ In this project, we participated in a challenge for Valmet organized by Since AI
 
 ---
 ### Protomix : A Python Package for 1H-NMR Metabolomics Data Preprocessing
-<div style="text-align: justify;">
 This project focused on the development of a preprocessing pipeline for NMR data in Python. For more details, check out the [scientific publication](https://doi.org/10.1093/bioadv/vbae192) describing the package. You can also access the full documentation on [ReadTheDocs](https://protomix.readthedocs.io/en/latest/) and the notebook below illustrates a glimpse of the capabilities that this library has to offer.
-</br>
-</div>
 
 <img src="images/post6.png?raw=true" width=500/>
 
@@ -24,10 +18,7 @@ This project focused on the development of a preprocessing pipeline for NMR data
 
 ---
 ### PyShift: NMR Peak Alignment using Icoshift Algorithm in Python
-<div style="text-align: justify;">
 This project aims to implement the Icoshift algorithm in Python to achieve accurate alignment of NMR spectra. The implementation's performance will be assessed using the Wine NMR dataset, showcasing its ability to effectively handle variations in peak positions.
-</br>
-</div>
 
 <img src="images/post3.png?raw=true" width=500/>
 
@@ -38,10 +29,7 @@ This project aims to implement the Icoshift algorithm in Python to achieve accur
 ---
 
 ### A Potentiometric Multisensor Array for Prostate Cancer Diagnosis
-<div style="text-align: justify;">
 A potentiometric electronic tongue combined with machine learning was used to distinguish between prostate cancer patients and those with benign prostate hyperplasia by analyzing urine samples.
-</br>
-</div>
 
 <img src="images/post1.png?raw=true" width=800/>
 
@@ -52,11 +40,7 @@ A potentiometric electronic tongue combined with machine learning was used to di
 ---
 
 ### A Custom Data Collection Pipeline Using BeautifulSoup
-<div style="text-align: justify;">
-
 The objective of this project is to utilize BeautifulSoup for gathering pertinent data and valuable insights from a rental website. This will enable users to access a comprehensive list of apartments along with their specific details. Additionally, the project includes the creation of an interactive Power BI dashboard, facilitating data visualization for a more engaging user experience.
-</br>
-</div>
 
 <img src="images/post2.jpg?raw=true" width=500/>
 
@@ -67,10 +51,7 @@ The objective of this project is to utilize BeautifulSoup for gathering pertinen
 ---
 
 ### An Interactive Power BI Dashboard for Apartments' data
-<div style="text-align: justify;">
 The project includes the creation of an interactive Power BI dashboard, facilitating data visualization for a more engaging user experience. The data was retrieved using BeautifulSoup in the aforementioned project.
-</br>
-</div>
 
 <img src="images/post4.PNG?raw=true" width=500/>
 
@@ -81,10 +62,7 @@ The project includes the creation of an interactive Power BI dashboard, facilita
 ---
 
 ### A Comparative Analysis of Rice Varieties Osmanjik and Cameo using CatBoost Classifier and SHAPley values
-<div style="text-align: justify;">
 This project conducts a comparative analysis of rice varieties Osmanjik and Cameo using the CatBoost classifier for accurate classification. SHAPley values are employed to interpret the model's decisions and identify discriminative features between the two varieties.
-</br>
-</div>
 
 <img src="images/post5.jpg" width=800/>
 
