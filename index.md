@@ -4,7 +4,7 @@
 ### Hackathon : Development of a Computer Vision Model for Pumps and Valves Detection
 In this project, we participated in a challenge for Valmet organized by Since AI, focusing on building a complete solution for pumps and valves detection. Our team developed a web-based interface integrated with a YOLO-based computer vision model to detect and classify components in industrial environments. The work included data collection and preparation, model training, evaluation, and deployment within a user-friendly interface.[scientific publication](https://doi.org/10.1093/bioadv/vbae192)
 
-<img src="images/post6.png?raw=true" width=500/>
+<img src="images/hackathon_sinceAI.jpg?raw=true" width=500/>
 
 [View code on Colab](https://colab.research.google.com/drive/1gPUHOqjkFuxGW49sOJDpHYv7OiHq3aph#scrollTo=hnXNKPRQ4v3e)
 
