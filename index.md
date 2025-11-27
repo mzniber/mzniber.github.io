@@ -6,7 +6,7 @@ In this project, we participated in a challenge for Valmet organized by Since AI
 
 <img src="images/hackathon_sinceAI.jpg?raw=true" width=500/>
 
-[View a demo on Youtube](https://colab.research.google.com/drive/1gPUHOqjkFuxGW49sOJDpHYv7OiHq3aph#scrollTo=hnXNKPRQ4v3e)
+[View a demo on Youtube](https://youtu.be/3rsKuyBDOqQ)
 
 ---
 ### Protomix : A Python Package for 1H-NMR Metabolomics Data Preprocessing
