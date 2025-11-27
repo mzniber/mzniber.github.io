@@ -1,4 +1,4 @@
-## Exploring the Potential of Chemometrics, Data Science, and Machine Learning
+## Exploring the Potential of Data Science, Chemometrics, and Machine Learning in Diverse Sectors
 
 ---
 ### Hackathon : Development of a Computer Vision Model for Pumps and Valves Detection
