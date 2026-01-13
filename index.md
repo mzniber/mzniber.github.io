@@ -1,13 +1,22 @@
 ## Exploring the Potential of Data Science, Chemometrics, and Machine Learning in Diverse Sectors
 
----
 ### Industrial Project: AI-driven Optimization of Antireflective Coatings
-In this project, we collaborated with Senop on the AI-driven optimization of antireflective coatings. We developed a fully Python-based, end-to-end simulation pipeline using open-source tools, enabling high-throughput data generation while significantly reducing licensing costs. The work combined data analytics, regression modeling, and SHAP analysis to extract interpretable design principles and constrain the coating parameter space. To bridge the gap between simulated and experimental results, we applied genetic-algorithm-based reverse engineering. This approach led to systematic thickness correction guidelines and successful simulation-to-experiment validation, achieving an average reflectance of 0.04% in simulation and 0.09% experimentally—corresponding to a 70% improvement over Senop’s commercial coatings.
+In this project, we collaborated with Senop on the AI-driven optimization of antireflective coatings, focusing on building an interpretable, simulation-driven data science workflow.
 
-<img src="images/post7.png?raw=true" width=500/>
+**Key contributions:**
+- Developed a fully Python-based, end-to-end simulation pipeline using open-source tools, enabling high-throughput data generation and reduced licensing costs.
+- Applied data analytics, regression modeling, and SHAP analysis to extract interpretable design guidelines and constrain the coating parameter space.
+- Performed simulation-to-experiment comparison on two coating stacks (A and B).
+- Conducted model-informed thickness correction and second-round experimental validation.
+
+**Results:**
+- **Simulation:** 0.28% (Stack A), 0.04% (Stack B)
+- **Initial experiment:** 0.44% (Stack A), 0.15% (Stack B)
+- **After correction:** 0.32% (Stack A), 0.10% (Stack B)
 
 🔒 **Project status:** Proprietary  
-Due to confidentiality constraints, source code and detailed results cannot be publicly shared. Additional information, demonstrations, or technical discussions can be provided upon request.
+Due to confidentiality constraints, source code and detailed results cannot be publicly shared. Additional technical details can be provided upon request.
+<img src="images/post7.png?raw=true" width=500/>
 
 ---
 ### Hackathon : Development of a Computer Vision Model for Pumps and Valves Detection
