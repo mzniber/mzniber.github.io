@@ -1,3 +1,4 @@
+<div style="text-align: justify;">
 ## Selected Projects in Data Science, Chemometrics, Applied AI and Product Optimization
 
 
@@ -93,6 +94,6 @@ This project conducts a comparative analysis of rice varieties Osmanjik and Came
 
 [View code on Colab](https://colab.research.google.com/drive/12yctzARF8YYwUYDutqSL5fGwEcuo6obM?usp=sharing)
 
-
+</div>
 
 
