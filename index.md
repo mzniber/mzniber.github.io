@@ -1,13 +1,17 @@
-## Exploring the Potential of Data Science, Chemometrics, and Machine Learning in Diverse Sectors
+## Selected Projects in Data Science, Chemometrics, Applied AI and Product Optimization
+
 
 ### Industrial Project: AI-driven Optimization of Antireflective Coatings
 In this project, we collaborated with Senop on the AI-driven optimization of antireflective coatings, focusing on building an interpretable, simulation-driven data science workflow.
 
 **Key contributions:**
-- Developed a fully Python-based, end-to-end simulation pipeline using open-source tools, enabling high-throughput data generation and reduced licensing costs.
-- Applied data analytics, regression modeling, and SHAP analysis to extract interpretable design guidelines and constrain the coating parameter space.
-- Performed simulation-to-experiment comparison on two coating stacks (A and B).
-- Conducted model-informed thickness correction and second-round experimental validation.
+- Developed a Python-based, end-to-end simulation pipeline using open-source tools, enabling high-throughput data generation while reducing licensing costs.
+- Applied data analytics, feature engineering, regression modeling, and SHAP analysis to extract interpretable design principles and constrain the coating parameter space.
+- Identified multiple antireflective coating stacks with ultra-low average reflectance in simulation, achieving **0.28%** over a broad wavelength range (450–900 nm) and **0.04%** over a narrow wavelength range (450–650 nm).
+- Conducted an initial experimental validation of two optimized AR stacks using simulated thicknesses; however, the simulated performance could not be fully reproduced experimentally.
+- Employed a reverse-engineering approach based on genetic algorithms to identify simulated stacks that closely match the experimental reflectance spectra, enabling estimation of the fabricated layer thicknesses.
+- Derived a systematic thickness correction strategy by analyzing discrepancies between simulated and fabricated thicknesses.
+- Performed a second experimental validation using the corrected thicknesses, achieving close agreement between experimental and simulated reflectance.
 
 **Results:**
 - **Simulation:** 0.28% (Stack A), 0.04% (Stack B)
