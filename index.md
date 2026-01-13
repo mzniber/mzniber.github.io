@@ -1,6 +1,15 @@
 ## Exploring the Potential of Data Science, Chemometrics, and Machine Learning in Diverse Sectors
 
 ---
+### AI-driven Optimization of Antireflective Coatings
+In this project, we collaborated with Senop on the AI-driven optimization of antireflective coatings. We developed a fully Python-based, end-to-end simulation pipeline using open-source tools, enabling high-throughput data generation while significantly reducing licensing costs. The work combined data analytics, regression modeling, and SHAP analysis to extract interpretable design principles and constrain the coating parameter space. To bridge the gap between simulated and experimental results, we applied genetic-algorithm-based reverse engineering. This approach led to systematic thickness correction guidelines and successful simulation-to-experiment validation, achieving an average reflectance of 0.04% in simulation and 0.09% experimentally—corresponding to a 70% improvement over Senop’s commercial coatings.
+
+<img src="images/post7.png?raw=true" width=500/>
+
+🔒 **Project status:** Proprietary  
+Due to confidentiality constraints, source code and detailed results cannot be publicly shared. Additional information, demonstrations, or technical discussions can be provided upon request.
+
+---
 ### Hackathon : Development of a Computer Vision Model for Pumps and Valves Detection
 In this project, we participated in a challenge for Valmet organized by Since AI, focusing on building a complete solution for pumps and valves detection. Our team developed a web-based interface integrated with a YOLO-based computer vision model to detect and classify components in industrial environments. The work included data collection and preparation, model training, evaluation, and deployment within a user-friendly interface.
 
