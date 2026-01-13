@@ -1,7 +1,7 @@
 ## Exploring the Potential of Data Science, Chemometrics, and Machine Learning in Diverse Sectors
 
 ---
-### AI-driven Optimization of Antireflective Coatings
+### Industrial Project: AI-driven Optimization of Antireflective Coatings
 In this project, we collaborated with Senop on the AI-driven optimization of antireflective coatings. We developed a fully Python-based, end-to-end simulation pipeline using open-source tools, enabling high-throughput data generation while significantly reducing licensing costs. The work combined data analytics, regression modeling, and SHAP analysis to extract interpretable design principles and constrain the coating parameter space. To bridge the gap between simulated and experimental results, we applied genetic-algorithm-based reverse engineering. This approach led to systematic thickness correction guidelines and successful simulation-to-experiment validation, achieving an average reflectance of 0.04% in simulation and 0.09% experimentally—corresponding to a 70% improvement over Senop’s commercial coatings.
 
 <img src="images/post7.png?raw=true" width=500/>
