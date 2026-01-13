@@ -8,7 +8,7 @@ In this project, we collaborated with Senop on the AI-driven optimization of ant
 **Key contributions:**
 - Developed a Python-based, end-to-end simulation pipeline using open-source tools, enabling high-throughput data generation while reducing licensing costs.
 - Applied data analytics, feature engineering, regression modeling, and SHAP analysis to extract interpretable design principles and constrain the coating parameter space.
-- Identified multiple antireflective coating stacks with ultra-low average reflectance in simulation, achieving **0.28%** over a broad wavelength range (450–900 nm) and **0.04%** over a narrow wavelength range (450–650 nm).
+- Identified multiple antireflective coating stacks with ultra-low average reflectance in simulation, achieving 0.28% over a broad wavelength range (450–900 nm) and 0.04% over a narrow wavelength range (450–650 nm).
 - Conducted an initial experimental validation of two optimized AR stacks using simulated thicknesses; however, the simulated performance could not be fully reproduced experimentally.
 - Employed a reverse-engineering approach based on genetic algorithms to identify simulated stacks that closely match the experimental reflectance spectra, enabling estimation of the fabricated layer thicknesses.
 - Derived a systematic thickness correction strategy by analyzing discrepancies between simulated and fabricated thicknesses.
