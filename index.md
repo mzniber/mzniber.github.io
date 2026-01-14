@@ -41,7 +41,7 @@ In this project, we collaborated with researchers from Tampere University to opt
 - **Step 2:** Investigated the effect of laser beam diameter by evaluating *d* = 1.5 mm and 2.3 mm.
 - **Step 3:** Refined the search space by exploring a lower bonding force regime (*FB* = 5–20 gf).
 
-<img src="images/post8.png?raw=true" width=500/>
+<img src="images/Picture8.png?raw=true" width=500/>
 
 ---
 ### Hackathon : Development of a Computer Vision Model for Pumps and Valves Detection
