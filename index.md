@@ -1,5 +1,27 @@
 ## Selected Projects in Data Science, Chemometrics, Applied AI and Product Optimization
 
+### Computer Vision-based Defect Detection for Augmented Reality Glasses Manufacturing
+
+We collaborated with OptoFidelity to develop an automated defect detection workflow for augmented reality glasses using microscopy images.
+
+**Dataset:**  
+- 644 pre-annotated microscopy images, with incomplete and inconsistent labels  
+- ~30 hours spent reviewing, correcting, and adding annotations  
+
+**Model development:**  
+- Trained 5 YOLO and 13 Detectron2 models with varying architectures and sizes  
+- Selected the model with the best recall and visual performance for validation  
+
+**Deployment:**  
+- Integrated the selected model into a Streamlit web application for automated quality inspection  
+
+**Results:**  
+- Detectron2 offers more capabilities and control compared to YOLO, though with increased implementation complexity  
+- Detectron2 models achieved better performance than YOLO models  
+- Our selected model outperforms OptoFidelity’s in-house defect detection solution  
+- Enabled robust, automated inspection across the dataset, improving production efficiency
+
+<img src="images/post9.png?raw=true" width=500/>
 
 ### Bridging the Gap between Simulation and Experiment in Antireflective Coatings: A Data-Driven Approach
 
