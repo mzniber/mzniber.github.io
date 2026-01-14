@@ -3,7 +3,7 @@
 
 ### Bridging the Gap between Simulation and Experiment in Antireflective Coatings: A Data-Driven Approach
 
-In this project, we collaborated with Senop on the AI-driven optimization of antireflective coatings, focusing on building an interpretable, simulation-driven data science workflow.
+We collaborated with Senop to optimize antireflective coatings in simulation and validate experiments, aligning experimental results with simulation predictions.
 
 **Key contributions:**
 - Developed a Python-based, end-to-end simulation pipeline using open-source tools, enabling high-throughput data generation while reducing licensing costs.
@@ -15,9 +15,9 @@ In this project, we collaborated with Senop on the AI-driven optimization of ant
 - Performed a second experimental validation using the corrected thicknesses, achieving close agreement between experimental and simulated reflectance.
 
 **Results:**
-- **Simulation:** 0.28% (Stack A), 0.04% (Stack B)
-- **Initial experiment:** 0.44% (Stack A), 0.15% (Stack B)
-- **After correction:** 0.32% (Stack A), 0.10% (Stack B)
+- **Simulation:** 0.28% (Stack A), 0.04% (Stack B).
+- **Initial experiment:** 0.44% (Stack A), 0.15% (Stack B).
+- **After correction:** 0.32% (Stack A), 0.10% (Stack B).
 
 <img src="images/post7.png?raw=true" width=500/>
 
