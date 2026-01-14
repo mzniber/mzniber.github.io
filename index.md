@@ -25,21 +25,25 @@ Code and detailed results cannot be publicly shared at the moment.
 
 ---
 ### Industrial Project: Laser-assisted Bonding using Bayesian Optimization
-In this project, we collaborated with researchers from Tampere University to optimize the bonding of [Si-PIC - GaSb Chip] with respect to several process parameters.
 
-**Process parameters:**
-- Ramp-up time (*tR*)
-- Dwell time (*tD*)
-- Bonding force (*FB*)
-- Laser beam diameter (*d*)
+We collaborated with Tampere University to optimize the laser-assisted bonding of a Si-PIC–GaSb chip by maximizing bond strength.
 
-**Performance objective:**
-- Maximize shear force (*FSH*), defined as the force required to break the bond.
+**Process parameters:**  
+- Ramp-up time (*t<sub>R</sub>*), dwell time (*t<sub>D</sub>*), bonding force (*F<sub>B</sub>*), laser beam diameter (*d*)
 
-**Optimization workflow:**
-- **Step 1:** Built a surrogate model mapping *tR* (0–30 s), *tD* (0–10 s), and *FB* (20–50 gf) to *FSH*.
-- **Step 2:** Investigated the effect of laser beam diameter by evaluating *d* = 1.5 mm and 2.3 mm.
-- **Step 3:** Refined the search space by exploring a lower bonding force regime (*FB* = 5–20 gf).
+**Objective:**  
+- Maximize shear force (*F<sub>SH</sub>*)
+
+**Optimization workflow:**  
+- Built a surrogate model mapping *t<sub>R</sub>* (0–30 s), *t<sub>D</sub>* (0–10 s), and *F<sub>B</sub>* (20–50 gf) to *F<sub>SH</sub>*  
+- Evaluated beam diameters *d* = 1.5 mm and 2.3 mm  
+- Refined the search in a low-force regime (*F<sub>B</sub>* = 5–20 gf)
+
+**Results:**  
+- Optimal *F<sub>SH</sub>* was consistently located at the bottom-left of the 2D response landscapes, defining optimal *t<sub>R</sub>*, *t<sub>D</sub>*, and *F<sub>B</sub>*  
+- Two operating points were analyzed: global optimum (**SA**) and local maximum (**SB**)  
+- *d* = 2.3 mm showed robust performance from **SA** to **SB**, while *d* = 1.5 mm exhibited performance degradation  
+- Gaussian Process regression in the low-force regime identified an optimal *F<sub>B</sub>* ≈ **10 gf**
 
 <img src="images/Picture8.png?raw=true" width=500/>
 
