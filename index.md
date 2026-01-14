@@ -1,7 +1,8 @@
 ## Selected Projects in Data Science, Chemometrics, Applied AI and Product Optimization
 
 
-### Industrial Project: AI-driven Optimization of Antireflective Coatings
+### Bridging the Gap between Simulation and Experiment in Antireflective Coatings: A Data-Driven Approach
+
 In this project, we collaborated with Senop on the AI-driven optimization of antireflective coatings, focusing on building an interpretable, simulation-driven data science workflow.
 
 **Key contributions:**
@@ -24,26 +25,25 @@ In this project, we collaborated with Senop on the AI-driven optimization of ant
 Code and detailed results cannot be publicly shared at the moment. 
 
 ---
-### Industrial Project: Laser-assisted Bonding using Bayesian Optimization
+### Data-driven Optimization of Laser-Assisted Bonding Process for Hybrid Integration in Silicon Photonics
 
 We collaborated with Tampere University to optimize the laser-assisted bonding of a Si-PIC–GaSb chip by maximizing bond strength.
 
 **Process parameters:**  
-- Ramp-up time (*t<sub>R</sub>*), dwell time (*t<sub>D</sub>*), bonding force (*F<sub>B</sub>*), laser beam diameter (*d*)
+- Ramp-up time (*t<sub>R</sub>*), dwell time (*t<sub>D</sub>*), bonding force (*F<sub>B</sub>*), laser beam diameter (*d*).
 
 **Objective:**  
 - Maximize shear force (*F<sub>SH</sub>*), defined as the force required to break the bond.
 
 **Optimization workflow:**  
-- Built a surrogate model mapping *t<sub>R</sub>*, *t<sub>D</sub>*, and *F<sub>B</sub>* to *F<sub>SH</sub>*  
-- Evaluated beam diameters *d* = 1.5 mm and 2.3 mm  
-- Refined the search in a low-force regime (*F<sub>B</sub>* = 5–20 gf)
+- Built a surrogate model mapping *t<sub>R</sub>* (0 - 30 s), *t<sub>D</sub>* (0 - 10 s), and *F<sub>B</sub>* (20 - 50 gf) to *F<sub>SH</sub>*.  
+- Evaluated beam diameters *d* = 1.5 mm and 2.3 mm.
+- Refined the search in the low *F<sub>B</sub>* range (5 – 20 gf).
 
 **Results:**  
-- Optimal *F<sub>SH</sub>* was consistently located at the bottom-left of the 2D response landscapes, defining optimal *t<sub>R</sub>*, *t<sub>D</sub>*, and *F<sub>B</sub>*  
-- Two operating points were analyzed: global optimum (**SA**) and local maximum (**SB**)  
-- *d* = 2.3 mm showed robust performance from **SA** to **SB**, while *d* = 1.5 mm exhibited performance degradation  
-- Gaussian Process regression in the low-force regime identified an optimal *F<sub>B</sub>* ≈ **10 gf**
+- Optimal *F<sub>SH</sub>* was consistently located at the bottom-left of the 2D response landscapes, defining optimal *t<sub>R</sub>*=0, *t<sub>D</sub>*=0, and *F<sub>B</sub>*=20. 
+- Two operating points were analyzed: global optimum (**SA**) and local maximum (**SB**). *d* = 2.3 mm showed robust performance from **SA** to **SB**, while *d* = 1.5 mm exhibited performance degradation when deviating slightly from the optimum.
+- Gaussian Process regression in the low-force regime identified an optimal *F<sub>B</sub>* ≈ **10 gf**.
 
 <img src="images/Picture8.png?raw=true" width=500/>
 
