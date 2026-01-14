@@ -32,10 +32,10 @@ We collaborated with Tampere University to optimize the laser-assisted bonding o
 - Ramp-up time (*t<sub>R</sub>*), dwell time (*t<sub>D</sub>*), bonding force (*F<sub>B</sub>*), laser beam diameter (*d*)
 
 **Objective:**  
-- Maximize shear force (*F<sub>SH</sub>*)
+- Maximize shear force (*F<sub>SH</sub>*), defined as the force required to break the bond.
 
 **Optimization workflow:**  
-- Built a surrogate model mapping *t<sub>R</sub>* (0–30 s), *t<sub>D</sub>* (0–10 s), and *F<sub>B</sub>* (20–50 gf) to *F<sub>SH</sub>*  
+- Built a surrogate model mapping *t<sub>R</sub>*, *t<sub>D</sub>*, and *F<sub>B</sub>* to *F<sub>SH</sub>*  
 - Evaluated beam diameters *d* = 1.5 mm and 2.3 mm  
 - Refined the search in a low-force regime (*F<sub>B</sub>* = 5–20 gf)
 
