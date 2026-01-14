@@ -69,6 +69,29 @@ We collaborated with Tampere University to optimize the laser-assisted bonding o
 
 <img src="images/Picture8.png?raw=true" width=500/>
 
+### Data-driven Optimization of Semiconductor Saturable Absorber Mirrors (SESAMs)
+
+We collaborated with Reflekron to optimize oscillator performance and reduce experimentation by identifying optimal input parameters and chip properties for SESAMs using machine learning.
+
+**Research Questions:**  
+- Can oscillator performance be predicted from input parameters and chip properties?  
+- Which input parameters and wafer properties most significantly influence performance?
+
+**Approach:**  
+- Defined ML case studies with target outputs O3, O4.1, and O6 based on input parameters and chip properties.
+- Implemented Kernel Ridge Regression (KRR) and Random Forest (RF) models, identifying the best-performing models via comparative tests.
+- Performed feature importance analysis to determine which input features most strongly impact predictions and establish design rules.
+- Conducted a Monte Carlo search with the best ML models to identify parameter combinations that maximize O3 and O6 while minimizing O4.1 (target ≈ 0)
+
+**Results:**  
+- Achieved reasonable prediction errors mapping input parameters and chip properties to oscillator performance.  
+- RF models indicate that input parameters and chip properties are similarly informative for performance prediction.
+- Feature analysis highlights key process parameters (e.g., XY chip location) as significant predictors, while the impact of chip properties is less clear.
+- Generated 20 million random combinations of input parameters and chip properties to identify the combination yielding optimal oscillator performance  
+- Reflekron will experimentally validate the predicted best combinations and design rules, reducing trial-and-error in production.
+
+<img src="images/post10.png?raw=true" width=500/>
+
 ---
 ### Hackathon : Development of a Computer Vision Model for Pumps and Valves Detection
 In this project, we participated in a challenge for Valmet organized by Since AI, focusing on building a complete solution for pumps and valves detection. Our team developed a web-based interface integrated with a YOLO-based computer vision model to detect and classify components in industrial environments. The work included data collection and preparation, model training, evaluation, and deployment within a user-friendly interface.
