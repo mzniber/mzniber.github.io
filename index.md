@@ -4,6 +4,8 @@
 
 We collaborated with OptoFidelity to develop an automated defect detection workflow for augmented reality glasses using microscopy images.
 
+<img src="images/post9.png?raw=true" width=500/>
+
 **Dataset:**  
 - 644 pre-annotated microscopy images, with incomplete and inconsistent labels  
 - ~30 hours spent reviewing, correcting, and adding annotations  
@@ -21,11 +23,11 @@ We collaborated with OptoFidelity to develop an automated defect detection workf
 - Our selected model outperforms OptoFidelity’s in-house defect detection solution  
 - Enabled robust, automated inspection across the dataset, improving production efficiency
 
-<img src="images/post9.png?raw=true" width=500/>
-
 ### Bridging the Gap between Simulation and Experiment in Antireflective Coatings: A Data-Driven Approach
 
 We collaborated with Senop to optimize antireflective coatings in simulation and validate experiments, aligning experimental results with simulation predictions.
+
+<img src="images/post7.png?raw=true" width=500/>
 
 **Key contributions:**
 - Developed a Python-based, end-to-end simulation pipeline using open-source tools, enabling high-throughput data generation while reducing licensing costs.
@@ -41,8 +43,6 @@ We collaborated with Senop to optimize antireflective coatings in simulation and
 - **Initial experiment:** 0.44% (Stack A), 0.15% (Stack B).
 - **After correction:** 0.32% (Stack A), 0.10% (Stack B).
 
-<img src="images/post7.png?raw=true" width=500/>
-
 🔒 **Proprietary project:**   
 Code and detailed results cannot be publicly shared at the moment. 
 
@@ -50,6 +50,8 @@ Code and detailed results cannot be publicly shared at the moment.
 ### Data-driven Optimization of Laser-Assisted Bonding Process for Hybrid Integration in Silicon Photonics
 
 We collaborated with Tampere University to optimize the laser-assisted bonding of a Si-PIC–GaSb chip by maximizing bond strength.
+
+<img src="images/Picture8.png?raw=true" width=500/>
 
 **Process parameters:**  
 - Ramp-up time (*t<sub>R</sub>*), dwell time (*t<sub>D</sub>*), bonding force (*F<sub>B</sub>*), laser beam diameter (*d*).
@@ -67,11 +69,11 @@ We collaborated with Tampere University to optimize the laser-assisted bonding o
 - Two operating points were analyzed: global optimum (**SA**) and local maximum (**SB**). *d* = 2.3 mm showed robust performance from **SA** to **SB**, while *d* = 1.5 mm exhibited performance degradation when deviating slightly from the optimum.
 - Gaussian Process regression in the low-force regime identified an optimal *F<sub>B</sub>* ≈ **10 gf**.
 
-<img src="images/Picture8.png?raw=true" width=500/>
-
 ### Data-driven Optimization of Semiconductor Saturable Absorber Mirrors (SESAMs)
 
 We collaborated with Reflekron to optimize oscillator performance and reduce experimentation by identifying optimal input parameters and chip properties for SESAMs using machine learning.
+
+<img src="images/post10.png?raw=true" width=500/>
 
 **Research Questions:**  
 - Can oscillator performance be predicted from input parameters and chip properties?  
@@ -89,8 +91,6 @@ We collaborated with Reflekron to optimize oscillator performance and reduce exp
 - Feature analysis highlights key process parameters (e.g., XY chip location) as significant predictors, while the impact of chip properties is less clear.
 - Generated 20 million random combinations of input parameters and chip properties to identify the combination yielding optimal oscillator performance  
 - Reflekron will experimentally validate the predicted best combinations and design rules, reducing trial-and-error in production.
-
-<img src="images/post10.png?raw=true" width=500/>
 
 ---
 ### Hackathon : Development of a Computer Vision Model for Pumps and Valves Detection
