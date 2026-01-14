@@ -24,6 +24,26 @@ In this project, we collaborated with Senop on the AI-driven optimization of ant
 Code and detailed results cannot be publicly shared at the moment. 
 
 ---
+### Industrial Project: Laser-assisted Bonding using Bayesian Optimization
+In this project, we collaborated with researchers from Tampere University to optimize the bonding of [Si-PIC - GaSb Chip] with respect to several process parameters.
+
+**Process parameters:**
+- Ramp-up time (*tR*)
+- Dwell time (*tD*)
+- Bonding force (*FB*)
+- Laser beam diameter (*d*)
+
+**Performance objective:**
+- Maximize shear force (*FSH*), defined as the force required to break the bond.
+
+**Optimization workflow:**
+- **Step 1:** Built a surrogate model mapping *tR* (0–30 s), *tD* (0–10 s), and *FB* (20–50 gf) to *FSH*.
+- **Step 2:** Investigated the effect of laser beam diameter by evaluating *d* = 1.5 mm and 2.3 mm.
+- **Step 3:** Refined the search space by exploring a lower bonding force regime (*FB* = 5–20 gf).
+
+<img src="images/post8.png?raw=true" width=500/>
+
+---
 ### Hackathon : Development of a Computer Vision Model for Pumps and Valves Detection
 In this project, we participated in a challenge for Valmet organized by Since AI, focusing on building a complete solution for pumps and valves detection. Our team developed a web-based interface integrated with a YOLO-based computer vision model to detect and classify components in industrial environments. The work included data collection and preparation, model training, evaluation, and deployment within a user-friendly interface.
 
