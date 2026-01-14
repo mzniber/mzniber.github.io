@@ -20,8 +20,8 @@ In this project, we collaborated with Senop on the AI-driven optimization of ant
 
 <img src="images/post7.png?raw=true" width=500/>
 
-🔒 **Project status:** Proprietary  
-Due to confidentiality constraints, source code and detailed results cannot be publicly shared. Additional technical details can be provided upon request.
+🔒 **Proprietary project:**   
+Code and detailed results cannot be publicly shared at the moment. 
 
 ---
 ### Hackathon : Development of a Computer Vision Model for Pumps and Valves Detection
